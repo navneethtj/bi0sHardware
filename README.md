@@ -6,7 +6,7 @@ challeges solved for bi0s Hardware 2024
 I am Navaeeth Krishnan, a student from the Electronics and Communication Engineering (ECE) department. I have enjoyed engaging with the tasks , particularly those involving Arduino and electronic devices. These experiences have not only deepened my understanding of electronics but have also sparked a passion within me for this field. Working on tasks has been a fun and educational experience, allowing me to learn about Arduino programming, circuit design, and the functionality of different electronic components. Although I couldn't complete every task, I am content with the knowledge and hands-on experience I have gained, which has solidified my interest in electronics.
 
 
-Looking ahead, I am eager to continue developing my skills and knowledge in electronics. Being a part of this club would provide me with valuable opportunities to further my learning, collaborate with like-minded individuals, and contribute to innovative projects.I look forward to the opportunities that lie ahead as I continue to pursue my passion for electronics.
+Being a part of this club would provide me with valuable opportunities to further my learning, collaborate with like-minded individuals, and contribute to innovative projects.I look forward to the opportunities that lie ahead as I continue to pursue my intrest in electronics.
 
 | Challenge | Name | Status |
 |:-|:-|:-|
