@@ -11,7 +11,7 @@ Looking ahead, I am eager to continue developing my skills and knowledge in elec
 | Challenge | Name | Status |
 |:-|:-|:-|
 |01|Full adder using MUX|Unattempted|
-|02|Bare Metal Programming|Complete|
+|02|Bare Metal Programming|Completed|
 |03|Data Transmission|Completed|
 |04|Arduino Keypad Lock|Completed|
 |05|Caesar Cipher|Completed|
