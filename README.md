@@ -16,5 +16,5 @@ Being a part of this club would provide me with valuable opportunities to furthe
 |04|Arduino Keypad Lock|Completed|
 |05|Caesar Cipher|Completed|
 |06|LCD display with switches|Completed|
-|07|Modbus Simulation|Unattempted|
+|07|Modbus Simulation|Completed|
 |08|Ladder Logic program|Completed|
